@@ -32,7 +32,7 @@ My Social Accounts
 ------------------
 
 
-![Linkedin](https://www.linkedin.com/in/ozancakmakirl/)
+![Linkedin](https://www.linkedin.com/in/ozansh/)
 ![Medium](https://medium.com/@ozansh-bak)
 ![Stack Overflow](https://stackoverflow.com/users/22940529/ozan)
 ![GitHub](https://github.com/ozansh)
