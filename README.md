@@ -33,7 +33,7 @@ I am a Computer Engineer who is passionate about free and open source software, 
 - [Medium](https://medium.com/@ozansh-bak)
 - [Stack Overflow](https://stackoverflow.com/users/22940529/ozan)
 - [GitHub](https://github.com/ozansh)
-<a rel="me" href="https://mastodon.social/@ozansh">Mastodon</a>
+- <a rel="me" href="https://mastodon.social/@ozansh">Mastodon</a>
 
 
 ### How to Reach Me
@@ -41,6 +41,7 @@ I am a Computer Engineer who is passionate about free and open source software, 
 
 - Email: ozan42.public@gmail.com
 - Discord ID: ozan.sh
+- Matrix: https://matrix.to/#/@ozansh:nitro.chat
 
 
 [MY CV](/assets/cv/ozancakmak_CV_TR.docx.pdf)
