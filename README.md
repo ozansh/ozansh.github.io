@@ -33,7 +33,7 @@ I am a Computer Engineer who is passionate about free and open source software, 
 - [Medium](https://medium.com/@ozansh-bak)
 - [Stack Overflow](https://stackoverflow.com/users/22940529/ozan)
 - [GitHub](https://github.com/ozansh)
-
+<a rel="me" href="https://mastodon.social/@ozansh">Mastodon</a>
 
 
 ### How to Reach Me
